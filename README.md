@@ -32,7 +32,4 @@ Thanks for visiting my profile! ⭐
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendrachoudhary33&show_icons=true)
 
-## 📊 My Contributions
-
-![3D Contribution Graph](./contribution-3d.svg)
 
