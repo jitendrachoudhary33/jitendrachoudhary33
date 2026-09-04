@@ -1,5 +1,5 @@
 <img src="welcome github  Image Sep 4, 2026, 12_06_22 AM" >
-## Hi there 👋
+
 
 # Hi 👋, I'm Jitesh
 
