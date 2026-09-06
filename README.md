@@ -1,5 +1,7 @@
 
-![My Image](welcome%20github%20%20Image%20Sep%204,%202026,%2012_06_22%20AM.png)
+<p align="center">
+  <img src="welcome github  Image Sep 4, 2026, 12_06_22 AM - Copy.png" width="500">
+</p>
 ## Hi there 👋
 
 # Hi 👋, I'm Jitesh
