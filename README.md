@@ -36,12 +36,12 @@ HTML | CSS | Python | Git | GitHub
 
 <p align="center">
 
-<a href="mailto:yourname@gmail.com">
+<a href="mailto:jitendra.choudhary.cg@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="65" height="65"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/yourusername/">
+<a href="https://www.linkedin.com/in/jitendra choudhary/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -56,7 +56,7 @@ HTML | CSS | Python | Git | GitHub
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/jiteshchoudhary33">
 <img src="https://skillicons.dev/icons?i=github" width="65" height="65"/>
 </a>
 
