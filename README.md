@@ -28,8 +28,51 @@ HTML | CSS | Python | Git | GitHub
 - Improve my coding skills
 - Contribute to open source
 
-Thanks for visiting my profile! ⭐
+<h2 align="center">🚀 CONNECT WITH ME</h2>
 
-## 📊 GitHub Activity
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Let's+Connect+%F0%9F%91%8B;Let's+Build+Something+Amazing+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+
+<a href="mailto:yourname@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/yourusername/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/yourusername">
+<img src="https://skillicons.dev/icons?i=telegram" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/yourusername">
+<img src="https://skillicons.dev/icons?i=twitter" width="65" height="65"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65"/>
+</a>
+
+</p>
+
+<br>
+
+
+
+<p align="center">
+  <b>💻 Developer • 🚀 Creator • ⚡ Learner</b>
+</p>
+
+<p align="center">
+  <i>Building the future, one line of code at a time.</i>
+</p>
+
 
 
