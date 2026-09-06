@@ -41,7 +41,7 @@ HTML | CSS | Python | Git | GitHub
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/jitendra choudhary/">
+<a href="https://www.linkedin.com/in/Jitendra Choudhary/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65"/>
 </a>
 &nbsp;&nbsp;&nbsp;
