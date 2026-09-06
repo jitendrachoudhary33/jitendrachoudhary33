@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="welcome github  Image Sep 4, 2026, 12_06_22 AM - Copy.png">
+  <img src="welcome github  Image Sep 4, 2026, 12_06_22 AM - Copy.png" height="400">
 </p>
 ## Hi there 👋
 
