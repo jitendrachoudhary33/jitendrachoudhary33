@@ -32,8 +32,4 @@ Thanks for visiting my profile! ⭐
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jitendrachoudhary33)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitendrachoudhary33&show_icons=true)
-
 
