@@ -1,5 +1,5 @@
-<img src="welcome github  Image Sep 4, 2026, 12_06_22 AM" >
 
+![My Image](welcome%20github%20%20Image%20Sep%204,%202026,%2012_06_22%20AM.png)
 ## Hi there 👋
 
 # Hi 👋, I'm Jitesh
