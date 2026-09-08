@@ -27,6 +27,13 @@ HTML | CSS | Python | Git | GitHub
 - Build real-world projects
 - Improve my coding skills
 - Contribute to open source
+-<h3 align="center">📊 GitHub Dashboard</h3>
+
+<table align="center">
+<tr>
+<td><img src="https://streak-stats.demolab.com/?user=jitendrachoudhary33&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=3B82F6&fire=58A6FF&currStreakLabel=93C5FD" alt="jitesh's GitHub streak" /></td>
+</tr>
+</table> 
 
 <h2 align="center">🚀 CONNECT WITH ME</h2>
 
