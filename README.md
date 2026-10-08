@@ -53,16 +53,6 @@ HTML | CSS | Python | Git | GitHub
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://t.me/yourusername">
-<img src="https://skillicons.dev/icons?i=telegram" width="65" height="65"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/yourusername">
-<img src="https://skillicons.dev/icons?i=twitter" width="65" height="65"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/jiteshchoudhary33">
 <img src="https://skillicons.dev/icons?i=github" width="65" height="65"/>
 </a>
